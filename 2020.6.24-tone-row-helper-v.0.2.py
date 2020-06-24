@@ -83,7 +83,7 @@ def ri(row):  # calculates retrograde inversion - will make more efficient in te
     time.sleep(0.5)
     save_result(rinv, "Retrograde Inversion")
 
-print("Tone Row Helper, v. 0.1")
+print("Tone Row Helper, v. 0.2")
 time.sleep(0.25)
 print("This program will do calculations for 12-tone row matrices.")
 time.sleep(0.5)
