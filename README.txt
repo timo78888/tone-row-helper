@@ -1,5 +1,3 @@
-Motivation:
-
 The "12-tone row" in music is a method of composition that is heavily based on mathematical constructs.
 The 12-tone row is a way of arranging the 12 chromatic notes (C, C#/Db, D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, B) such that all 12 notes are used once.
 Order matters for a 12-tone row, so a 12-tone row is essentially an array of notes.
