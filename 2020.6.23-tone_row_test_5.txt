@@ -1,0 +1,11 @@
+Original row: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 10]
+
+Transposition by -2: [10, 11, 0, 1, 2, 3, 4, 5, 6, 7, 9, 8]
+
+Transposition by 3: [3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 2, 1]
+
+Transposition by 6: [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 5, 4]
+
+Transposition by 8: [8, 9, 10, 11, 0, 1, 2, 3, 4, 5, 7, 6]
+
+Transposition by 48: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 10]
