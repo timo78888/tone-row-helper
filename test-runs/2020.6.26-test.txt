@@ -1,0 +1,16 @@
+Calculations from Tone Row Helper
+
+Key:
+0 = C, 1 = C#/Db, 2 = D, 3 = D#/Eb
+4 = E, 5 = F, 6 = F#/Gb, 7 = G
+8 = G#/Ab, 9 = A, 10 = A#/Bb, 11 = B
+
+Original row: [3, 7, 9, 6, 0, 1, 2, 5, 8, 11, 4, 10]
+
+Transposition by 9: [0, 4, 6, 3, 9, 10, 11, 2, 5, 8, 1, 7]
+
+Retrograde: [10, 4, 11, 8, 5, 2, 1, 0, 6, 9, 7, 3]
+
+Inversion: [3, 11, 9, 0, 6, 5, 4, 1, 10, 7, 2, 8]
+
+Retrograde Inversion: [8, 2, 7, 10, 1, 4, 5, 6, 0, 9, 11, 3]
