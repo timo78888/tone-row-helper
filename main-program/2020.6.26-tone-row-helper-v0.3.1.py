@@ -158,6 +158,6 @@ while True:
         inversion(row)
 
     # finds retrograde inversion
-        print("\n")
     if get_function == 'ri' or get_function == 'retrograde-inversion' or get_function == 'retrograde inversion':
+        print("\n")
         ri(row)
