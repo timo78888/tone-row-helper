@@ -50,6 +50,7 @@ def invert(row):  # implemented to simplify down inversion and ri functions
     inverted[0] = row[0]
     for i in range(11):
         inverted[i+1] = (inverted[i] - intervals[i]) % 12
+    # fixed visual bug in invert
 
 def inversion(row):  # writes inversion of a row
     invert(row)
